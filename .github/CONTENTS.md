@@ -45,7 +45,6 @@ This document gives you a quick overview on how to get started, we will link to 
 * [Questions?](QUESTIONS.md)
 * [Credits](CREDITS.md)
 
-<style> .pagination a {color: black;float: left;padding: 8px 16px;text-decoration: none;transition: background-color .3s;} .pagination a.active {background-color: dodgerblue;color: white;}</style>
 
 <div class="pagination">
     <a href="CONTENTS.md">First</a>
