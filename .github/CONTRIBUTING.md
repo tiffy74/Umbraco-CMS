@@ -1,99 +1,131 @@
 _Looking for Umbraco version 8? [Click here](https://github.com/umbraco/Umbraco-CMS/blob/temp8/docs/CONTRIBUTING.md) to go to the v8 branch_
-# Contributing to Umbraco CMS
-
-👍🎉 First off, thanks for taking the time to contribute! 🎉👍
-
-The following is a set of guidelines for contributing to Umbraco CMS.
-
-These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
-
-Remember, we're a friendly bunch and are happy with whatever contribution you might provide. Below are guidelines for success that we've gathered over the years. If you choose to ignore them then we still love you 💖.
-
-## Contributing code changes
-
-This document gives you a quick overview on how to get started, we will link to in-depth documentation throughout if you need some more background info.
-
-
-## Guidelines for contributions we welcome
-
-Not all changes are wanted so on occassion we might close a PR without merging it. We will give you feedback why we can't accept your changes and we'll be nice about it, thanking you for spending your valueable time.
-
-We have [documented what we consider small and large changes](CONTRIBUTION_GUIDELINES.md), make sure to talk to us before making large changes.
-
-Remember, if an issue is in the `Up for grabs` list or you've asked for some feedback before you sent us a PR, your PR will not be closed as unwanted.
 
 ## How do I begin?
 
-Great question! The short version goes like this:
+Before making contributions to Umbraco - you must communicate to the Umbraco PR Team on the details of your contribution.
 
-  * **Fork** - create a fork of [`Umbraco-CMS` on GitHub](https://github.com/umbraco/Umbraco-CMS)
+There are several ways of doing this depending on whether your contribution is addressing a bug or suggesting an enhancement.
 
-  ![Fork the repository](img/forkrepository.png)
+Unsure where to begin contributing to Umbraco? You can start by looking through [these `Up for grabs` and issues](http://issues.umbraco.org/issues/U4?q=%28project%3A+%7BU4%7D+Difficulty%3A+%7BVery+Easy%7D+%23Easy+%23Unresolved+Priority%3A+Normal+%23Major+%23Show-stopper+State%3A+-%7BIn+Progress%7D+sort+by%3A+votes+Affected+versions%3A+-6.*+Affected+versions%3A+-4.*%29+OR+%28tag%3A+%7BUp+For+Grabs%7D+%23Unresolved+%29).
 
-  * **Clone** - when GitHub has created your fork, you can clone it in your favorite Git tool
-  
-  ![Clone the fork](img/clonefork.png)
+The issue list is sorted by total number of upvotes. While not perfect, number of upvotes is a reasonable proxy for impact a given change will have.
 
-  * **Build** - build your fork of Umbraco locally as described in [building Umbraco from source code](BUILD.md)
-  * **Change** - make your changes, experiment, have fun, explore and learn, and don't be afraid. We welcome all contributions and will [happily give feedback](#questions)
-  * **Commit** - done? Yay! 🎉 It is recommended to create a new branch now and name it after the issue you're fixing, we usually follow the format: `temp-U4-12345`. This means it's a temporary branch for the particular issue you're working on, in this case `U4-12345`
-  * **Push** - great, now you can push the changes up to your fork on GitHub
-  * **Create pull request** - exciting! You're ready to show us your changes (or not quite ready, you just need some feedback to progress). GitHub has picked up on the new branch you've pushed and will offer to create a Pull Request. Click that green button and away you go.
+### Reporting Bugs
+This section guides you through submitting a bug report for Umbraco CMS. Following these guidelines helps maintainers and the community understand your report 📝, reproduce the behavior 💻 💻, and find related reports 🔎.
 
-  ![Create a pull request](img/createpullrequest.png)
+Before creating bug reports, please check [this list](#before-submitting-a-bug-report) as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report). Fill out [the required template](http://issues.umbraco.org/issues#newissue=61-30118), the information it asks for helps us resolve issues faster.
 
-### Further reading
+> **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
-At this point you might want to [read on about contributing in depth](CONTRIBUTING_DETAILED.md). 
+##### Before Submitting A Bug Report
 
-### Reviews
+  * Most importantly, check **if you can reproduce the problem** in the [latest version of Umbraco](https://our.umbraco.org/download/). We might have already fixed your particular problem.
+  * It also helps tremendously to check if the issue you're experiencing is present in **a clean install** of the Umbraco version you're currently using. Custom code can have side-effects that don't occur in a clean install.
+  * **Use the Google**. Whatever you're experiencing, Google it plus "Umbraco" - usually you can get some pretty good hints from the search results, including open issues and further troubleshooting hints.
+  * If you do find and existing issue has **and the issue is still open**, add a comment to the existing issue if you have additional information. If you have the same problem and no new info to add, just "star" the issue.
 
-You've sent us your first contribution, congratulations! Now what?
+Explain the problem and include additional details to help maintainers reproduce the problem. The following is a long description which we've boiled down into a few very simple questions in the issue tracker when you create a new issue. We're listing the following hints to indicate that the most successful reports usually have a lot of this ground covered:
 
-The [pull request team](#the-pr-team) can now start reviewing your proposed changes and give you feedback on them. If it's not perfect, we'll either fix up what we need or we can request you to make some additional changes.
+  * **Use a clear and descriptive title** for the issue to identify the problem.
+  * **Describe the exact steps which reproduce the problem** in as many details as possible. For example, start by explaining which steps you took in the backoffice to get to a certain undesireable result, e.g. you created a document type, inherting 3 levels deep, added a certain datatype, tried to save it and you got an error.
+  * **Provide specific examples to demonstrate the steps**. If you wrote some code, try to provide a code sample as specific as possible to be able to reproduce the behavior.
+  * **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that behavior.
+  * **Explain which behavior you expected to see instead and why.**
 
-We have [a process in place which you can read all about](REVIEW_PROCESS.md). The very abbreviated version is:
+Provide more context by answering these questions:
 
-- Your PR will get a reply within 48 hours
-- An in-depth reply will be added within at most 2 weeks
-- The PR will be either merged or rejected within at most 4 weeks
-- Sometimes it is difficult to meet these timelines and we'll talk to you
+  * **Can you reproduce the problem** when `debug="false"` in your `web.config` file?
+  * **Did the problem start happening recently** (e.g. after updating to a new version of Umbraco) or was this always a problem?
+  * **Can you reliably reproduce the issue?** If not, provide details about how often the problem happens and under which conditions it normally happens.
 
-## Styleguides
+Include details about your configuration and environment:
 
-To be honest, we don't like rules very much. We trust you have the best of intentions and we encourage you to create working code. If it doesn't look perfect then we'll happily help clean it up.
+  * **Which version of Umbraco are you using?** 
+  * **What is the environment you're using Umbraco in?** Is this a problem on your local machine or on a server. Tell us about your configuration: Windows version, IIS/IISExpress, database type, etc.
+  * **Which packages do you have installed?**
 
-That said, the Umbraco development team likes to follow the hints that ReSharper gives us (no problem if you don't have this installed) and we've added a `.editorconfig` file so that Visual Studio knows what to do with whitespace, line endings, etc.
+### Suggesting Enhancements
 
-## The PR team
+This section guides you through submitting an enhancement suggestion for Umbraco, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion 📝 and find related suggestions 🔎.
 
-The pull request team consists of a member of Umbraco HQ, [Sebastiaan](https://github.com/nul800sebastiaan), who gets assistance from the following community members
+Most of the suggestions in the [reporting bugs](#reporting-bugs) section also count for suggesting enhancements.
 
-- [Anders Bjerner](https://github.com/abjerner)
-- [Dave Woestenborghs](https://github.com/dawoe)
-- [Emma Burstow](https://github.com/emmaburstow)
-- [Kyle Weems](https://github.com/cssquirrel)
-- [Poornima Nayar](https://github.com/poornimanayar)
+Some additional hints that may be helpful:
 
-These wonderful volunteers will provide you with a first reply to your PR, review and test out your changes and might ask more questions. After that they'll let Umbraco HQ know if everything seems okay. 
+  * **Include screenshots and animated GIFs** which help you demonstrate the steps or point out the part of Umbraco which the suggestion is related to.
+  * **Explain why this enhancement would be useful to most Umbraco users** and isn't something that can or should be implemented as a [community package](https://our.umbraco.org/projects/).
 
-## Questions?
+# What We're Looking For
 
-You can get in touch with [the PR team](#the-pr-team) in multiple ways, we love open conversations and we are a friendly bunch. No question you have is stupid. Any questions you have usually helps out multiple people with the same question. Ask away:
+Not all changes are wanted so on occassion we might close a PR without merging it. We will give you feedback why we can't accept your changes and we'll be nice about it, thanking you for spending your valueable time.
 
-- If there's an existing issue on the issue tracker then that's a good place to leave questions and discuss how to start or move forward
-- Unsure where to start? Did something not work as expected? Try leaving a note in the ["Contributing to Umbraco"](https://our.umbraco.org/forum/contributing-to-umbraco-cms/) forum, the team monitors that one closely
-- We're also [active in the Gitter chatroom](https://gitter.im/umbraco/Umbraco-CMS)
+We have documented what we consider small and large changes below, make sure to talk to us before making large changes.
 
-## Code of Conduct
+Remember, if an issue is in the `Up for grabs` list or you've asked for some feedback before you sent us a PR, your PR will not be closed as unwanted.
 
-This project and everyone participating in it is governed by the [our Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [Sebastiaan Janssen - sj@umbraco.dk](mailto:sj@umbraco.dk).
+## How We Decide
 
+When you’re considering creating a pull request for Umbraco CMS, we will categorize them in two different sizes, small and large.
 
-## Contributing to Umbraco, in depth
+The process for both sizes is very similar, as [explained in the contribution document](CONTRIBUTING.md#how-do-i-begin).
 
-There are other ways to contribute, and there's a few more things that you might be wondering about. We will answer the [most common questions and ways to contribute in our detailed documentation](CONTRIBUTING_DETAILED.md).
+## Small PRs
+Bug fixes and small improvements - can be recognized by seeing a small number of changes and possibly a small number of new files.
 
-## Credits
+We’re usually able to handle small PRs pretty quickly. A community volunteer will do the initial review and flag it for Umbraco HQ as “community tested”. If everything looks good, it will be merged pretty quickly [as per the described process](REVIEW_PROCESS.md).
 
-This contribution guide borrows heavily from the excellent work on [the Atom contribution guide](https://github.com/atom/atom/blob/master/CONTRIBUTING.md). A big [#h5yr](http://h5yr.com/) to them!
+### Up for grabs
+
+Umbraco HQ will regularly mark newly created issues on the issue tracker with the `Up for grabs` tag. This means that the proposed changes are wanted in Umbraco but the HQ does not have the time to make them at this time. These issues are usually small enough to fit in the "Small PRs" category and we encourage anyone to pick them up and help out.  
+
+If you do start working on something, make sure leave a small comment on the issue saying something like: "I'm working on this". That way other people stumbling upon the issue know they don't need to pick it up, someone already has.
+
+## Large PRs
+New features and large refactorings - can be recognized by seeing a large number of changes, plenty of new files, updates to package manager files (NuGet’s packages.config, NPM’s packages.json, etc.).  
+
+We would love to follow the same process for larger PRs but this is not always possible due to time limitations and priorities that need to be aligned. We don’t want to put up any barriers, but this document should set the correct expectations.  
+
+Please make sure to describe your idea in an issue, it helps to put in mockup screenshots or videos.  
+
+If the change makes sense for HQ to include in Umbraco CMS we will leave you some feedback on how we’d like to see it being implemented. 
+
+If a larger pull request is encouraged by Umbraco HQ, the process will be similar to what is described in the [small PRs process](#small-prs) above, we’ll get feedback to you within 14 days. Finalizing and merging the PR might take longer though as it will likely need to be picked up by the development team to make sure everything is in order. We’ll keep you posted on the progress.
+
+### Pull request or package?
+
+If it doesn’t fit in CMS right now, we will likely encourage you to make it into a package instead. A package is a great way to check out popularity of a feature, learn how people use it, validate good usability and to fix bugs.  
+
+Eventually, a package could "graduate" to be included in the CMS.
+
+<style>
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+}
+
+.pagination a.active {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+</style>
+
+<div class="pagination">
+    <a href="CONTENTS.md">First</a>
+    <a href="#">&laquo;</a>
+    <a href="CONTENTS.md">1</a>
+    <a href="CODE_OF_CONDUCT.md">2</a>
+    <a href="QUICK_START.md">3</a>
+    <a class="active" href="#">4</a>
+    <a href="CONTRIBUTION.md">5</a>
+    <a href="PULL_REQUESTS.md">6</a>
+    <a href="PULL_REQUEST_TEMPLATE.md">7</a>
+    <a href="QUESTIONS.md">8</a>
+    <a href="CREDITS.md">9</a>
+    <a href="#">&raquo;</a>
+    <a href="CREDITS.md">Last</a>
+</div>

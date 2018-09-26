@@ -1,14 +1,7 @@
-### Prerequisites
+# Credits
 
-- [ ] I have [created an issue](https://github.com/umbraco/Umbraco-CMS/issues) for the proposed changes in this PR, the link is:
-- [ ] I have added steps to test this contribution in the description below
+This contribution guide borrows heavily from the excellent work on [the Atom contribution guide](https://github.com/atom/atom/blob/master/CONTRIBUTING.md). A big [#h5yr](http://h5yr.com/) to them!
 
-### Description
-<!-- A description of the changes proposed in the pull-request -->
-<!-- Make sure to link to the related issue number so we can easily find it in the issue tracker -->
-
-
-<!-- Thanks for contributing to Umbraco CMS! -->
 
 <style>
 .pagination a {
@@ -36,9 +29,8 @@
     <a href="CONTRIBUTING.md">4</a>
     <a href="CONTRIBUTION.md">5</a>
     <a href="PULL_REQUESTS.md">6</a>
-    <a class="active" href="#">7</a>
-    <a href="QUESTIONS.md">8</a>
-    <a href="CREDITS.md">9</a>
+    <a href="QUESTIONS.md">7</a>
+    <a class="active" href="#">8</a>
     <a href="#">&raquo;</a>
     <a href="CREDITS.md">Last</a>
 </div>

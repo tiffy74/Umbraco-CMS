@@ -40,18 +40,14 @@ If it doesn’t fit in CMS right now, we will likely encourage you to make it in
 
 Eventually, a package could "graduate" to be included in the CMS.
 
+\{{#paginate}}
 <div class="pagination">
-    <a href="CONTENTS.md">First</a>
-    <a href="#">&laquo;</a>
-    <a href="CONTENTS.md">1</a>
-    <a href="CODE_OF_CONDUCT.md">2</a>
-    <a href="QUICK_START.md">3</a>
-    <a href="CONTRIBUTING.md">4</a>
-    <a href="CONTRIBUTION.md">5</a>
-    <a href="PULL_REQUESTS.md">6</a>
-    <a href="QUESTIONS.md">7</a>
-    <a href="READING.md">8</a>
-    <a href="CREDITS.md">9</a>
-    <a href="#">&raquo;</a>
-    <a href="CREDITS.md">Last</a>
+  <ul>
+    <li><a href="\{{paginate-first}}">First</a></li>
+    <li><a href="\{{paginate-prev}}">Prev</a></li>
+    \{{#pages}}<li><a href="\{{basename}}\{{ext}}">\{{page.number}} of \{{paginate-length}}</a></li>\{{/pages}}
+    <li><a href="\{{paginate-next}}">Next</a></li>
+    <li><a href="\{{paginate-last}}">Last</a></li>
+  </ul>
 </div>
+\{{/paginate}}

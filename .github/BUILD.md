@@ -184,3 +184,10 @@ NuGet / NuSpec consistency checks are performed in tests. We should move it so i
 There are still a few commands in `build` (to build docs, install Git or cleanup the install) that will need to be migrated to PowerShell.
 
 /eof
+
+    <a href="PULL_REQUEST_TEMPLATE.md">7</a>
+    <a href="QUESTIONS.md">8</a>
+    <a href="CREDITS.md">9</a>
+    <a href="#">&raquo;</a>
+    <a href="CREDITS.md">Last</a>
+</div>
