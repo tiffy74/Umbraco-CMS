@@ -16,7 +16,7 @@ This document gives you a quick overview on how to get started, we will link to 
 ## Contents
 
 * [On using these Guidelines](GUIDELINES.md)
-    * [Code of Conduct](CODE_OF_CONDUCT.md)
+    * [Code of Conduct](GUIDELINES.md)
 * [Quick Start](QUICK_START.md)
 * [What to Contribute](CONTRIBUTING.md)
     * [How do I begin?](getting-started)
