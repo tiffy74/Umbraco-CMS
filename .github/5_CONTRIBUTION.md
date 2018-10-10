@@ -72,35 +72,4 @@ To be honest, we don't like rules very much. We trust you have the best of inten
 
 That said, the Umbraco development team likes to follow the hints that ReSharper gives us (no problem if you don't have this installed) and we've added a `.editorconfig` file so that Visual Studio knows what to do with whitespace, line endings, etc. 
 
-<style>
-.pagination a {
-    color: black;
-    float: left;
-    padding: 8px 16px;
-    text-decoration: none;
-    transition: background-color .3s;
-}
-
-.pagination a.active {
-    background-color: dodgerblue;
-    color: white;
-}
-
-.pagination a:hover:not(.active) {background-color: #ddd;}
-</style>
-
-<div class="pagination">
-    <a href="CONTENTS.md">First</a>
-    <a href="#">&laquo;</a>
-    <a href="CONTENTS.md">1</a>
-    <a href="CODE_OF_CONDUCT.md">2</a>
-    <a href="QUICK_START.md">3</a>
-    <a href="CONTRIBUTING.md">4</a>
-    <a class="active" href="#">5</a>
-    <a href="PULL_REQUESTS.md">6</a>
-    <a href="PULL_REQUEST_TEMPLATE.md">7</a>
-    <a href="QUESTIONS.md">8</a>
-    <a href="CREDITS.md">9</a>
-    <a href="#">&raquo;</a>
-    <a href="CREDITS.md">Last</a>
-</div>
+[<< Prev ](4_CONTRIBUTING.md)[ Next >>](6_PULL_REQUESTS.md)
