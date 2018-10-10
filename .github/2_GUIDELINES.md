@@ -81,4 +81,4 @@ Don't rest on your laurels and never accept the status quo. Contribute and give 
 
 Don’t judge upon mistakes made but rather upon the speed and quality with which mistakes are corrected. Friendly posts and contributions generate smiles and builds long lasting relationships.
 
-[<< Prev ](1_CONTENTS.md)[ Next >>](1_CONTENTS.md)
+[<< Prev ](1_CONTENTS.md)[ Next >>](2_GUIDELINES.md)
