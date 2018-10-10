@@ -52,35 +52,4 @@ If we don’t hear back from you for 4 weeks, we’ll close the PR so that it do
 
 There will be times that we really like your proposed changes and we’ll finish the final improvements we’d like to see ourselves. You still get the credits and your commits will live on in the git repository.
 
-<style>
-.pagination a {
-    color: black;
-    float: left;
-    padding: 8px 16px;
-    text-decoration: none;
-    transition: background-color .3s;
-}
-
-.pagination a.active {
-    background-color: dodgerblue;
-    color: white;
-}
-
-.pagination a:hover:not(.active) {background-color: #ddd;}
-</style>
-
-<div class="pagination">
-    <a href="CONTENTS.md">First</a>
-    <a href="#">&laquo;</a>
-    <a href="CONTENTS.md">1</a>
-    <a href="CODE_OF_CONDUCT.md">2</a>
-    <a href="QUICK_START.md">3</a>
-    <a href="CONTRIBUTING.md">4</a>
-    <a href="CONTRIBUTION.md">5</a>
-    <a class="active" href="#">6</a>
-    <a href="PULL_REQUEST_TEMPLATE.md">7</a>
-    <a href="QUESTIONS.md">8</a>
-    <a href="CREDITS.md">9</a>
-    <a href="#">&raquo;</a>
-    <a href="CREDITS.md">Last</a>
-</div>
+[<< Prev ](5_CONTRIBUTION.md)[ Next >>](7_QUESTIONS.md)
