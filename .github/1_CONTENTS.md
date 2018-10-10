@@ -23,3 +23,5 @@ This document gives you a quick overview on how to get started, we will link to 
 * [Merging Your Code Into Umbraco](6_PULL_REQUESTS.md)
 * [Questions?](7_QUESTIONS.md)
 * [Credits](8_CREDITS.md)
+
+[ Next >>](2_GUIDELINES.md)
