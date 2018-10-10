@@ -1,5 +1,7 @@
 _Looking for Umbraco version 8? [Click here](https://github.com/umbraco/Umbraco-CMS/blob/temp8/docs/CONTRIBUTING.md) to go to the v8 branch_
 
+[Back to Contents](1_CONTENTS.md)
+
 ## How do I begin?
 
 Before making contributions to Umbraco - you must communicate to the Umbraco PR Team on the details of your contribution.
