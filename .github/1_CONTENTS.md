@@ -15,14 +15,15 @@ This document gives you a quick overview on how to get started, we will link to 
 
 ## Contents
 
-* [On using these Guidelines](GUIDELINES.md)
-* [Quick Start](QUICK_START.md)
-* [What to Contribute](CONTRIBUTING.md)
-* [Your First Code Contribution](CONTRIBUTION.md)
+* [Introduction and Contents](1_GUIDELINES.md)
+* [On using these Guidelines](2_GUIDELINES.md)
+* [Quick Start](3_QUICK_START.md)
+* [What to Contribute](4_CONTRIBUTING.md)
+* [Making a Contribution](5_CONTRIBUTION.md)
 * [Building Umbraco From Source Code](BUILD.md)   
-* [Merging Your Code Into Umbraco](PULL_REQUESTS.md)
-* [Questions?](QUESTIONS.md)
-* [Credits](CREDITS.md)
+* [Merging Your Code Into Umbraco](6_PULL_REQUESTS.md)
+* [Questions?](7_QUESTIONS.md)
+* [Credits](8_CREDITS.md)
 
 
 <div class="pagination">
