@@ -15,7 +15,7 @@ This document gives you a quick overview on how to get started, we will link to 
 
 ## Contents
 
-* [Introduction and Contents](1_GUIDELINES.md)
+* [Introduction and Contents](1_CONTENTS.md)
 * [On using these Guidelines](2_GUIDELINES.md)
 * [Quick Start](3_QUICK_START.md)
 * [What to Contribute](4_CONTRIBUTING.md)
