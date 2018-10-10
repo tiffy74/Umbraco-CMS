@@ -13,7 +13,7 @@ Remember, we're a friendly bunch and are happy with whatever contribution you mi
 
 This document gives you a quick overview on how to get started, we will link to in-depth documentation throughout if you need some more background info.
 
-## Contents
+# Contents
 
 * [Introduction and Contents](1_CONTENTS.md)
 * [On using these Guidelines](2_GUIDELINES.md)
@@ -23,20 +23,3 @@ This document gives you a quick overview on how to get started, we will link to 
 * [Merging Your Code Into Umbraco](6_PULL_REQUESTS.md)
 * [Questions?](7_QUESTIONS.md)
 * [Credits](8_CREDITS.md)
-
-
-<div class="pagination">
-    <a href="CONTENTS.md">First</a>
-    <a href="#">&laquo;</a>
-    <a class="active" href="#">1</a>
-    <a href="CODE_OF_CONDUCT.md">2</a>
-    <a href="QUICK_START.md">3</a>
-    <a href="CONTRIBUTING.md">4</a>
-    <a href="CONTRIBUTION.md">5</a>
-    <a href="PULL_REQUESTS.md">6</a>
-    <a href="PULL_REQUEST_TEMPLATE.md">7</a>
-    <a href="QUESTIONS.md">8</a>
-    <a href="CREDITS.md">9</a>
-    <a href="#">&raquo;</a>
-    <a href="CREDITS.md">Last</a>
-</div>
