@@ -2,6 +2,8 @@ _Looking for Umbraco version 8? [Click here](https://github.com/umbraco/Umbraco-
 
 [Back to Contents](1_CONTENTS.md)
 
+# What to Contribute
+
 ## How do I begin?
 
 Before making contributions to Umbraco - you must communicate to the Umbraco PR Team on the details of your contribution.
