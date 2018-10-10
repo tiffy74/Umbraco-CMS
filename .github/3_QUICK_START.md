@@ -20,4 +20,4 @@ The short version goes like this:
 
   ![Create a pull request](img/createpullrequest.png)
 
-[<< Prev ](2_GUIDELINES.md)[ Next >>]()
+[<< Prev ](2_GUIDELINES.md)[ Next >>](4_CONTRIBUTING.md)
