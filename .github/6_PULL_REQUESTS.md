@@ -1,6 +1,6 @@
 [Back to Contents](1_CONTENTS.md)
 
-# Merging Your Contribution
+# Merging Your Code Into Umbraco
 
 ## Pull Requests
 
