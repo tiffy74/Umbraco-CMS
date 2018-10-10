@@ -10,7 +10,7 @@ We have documented what we consider small and large changes below, make sure to 
 
 Remember, if an issue is in the `Up for grabs` list or you've asked for some feedback before you sent us a PR, your PR will not be closed as unwanted.
 
-### Contributing to Umbraco CMS
+## Contributing to Umbraco CMS
 
 When you’re considering creating a pull request for Umbraco CMS, we will categorize them in two different sizes, small and large.
 
@@ -21,7 +21,7 @@ Bug fixes and small improvements - can be recognized by seeing a small number of
 
 We’re usually able to handle small PRs pretty quickly. A community volunteer will do the initial review and flag it for Umbraco HQ as “community tested”. If everything looks good, it will be merged pretty quickly [as per the described process](REVIEW_PROCESS.md).
 
-#### Up for grabs
+### Up for grabs
 
 Umbraco HQ will regularly mark newly created issues on the issue tracker with the `Up for grabs` tag. This means that the proposed changes are wanted in Umbraco but the HQ does not have the time to make them at this time. These issues are usually small enough to fit in the "Small PRs" category and we encourage anyone to pick them up and help out.  
 
@@ -38,7 +38,7 @@ If the change makes sense for HQ to include in Umbraco CMS we will leave you som
 
 If a larger pull request is encouraged by Umbraco HQ, the process will be similar to what is described in the [small PRs process](#small-prs) above, we’ll get feedback to you within 14 days. Finalizing and merging the PR might take longer though as it will likely need to be picked up by the development team to make sure everything is in order. We’ll keep you posted on the progress.
 
-#### Pull request or package?
+### Pull request or package?
 
 If it doesn’t fit in CMS right now, we will likely encourage you to make it into a package instead. A package is a great way to check out popularity of a feature, learn how people use it, validate good usability and to fix bugs.  
 
