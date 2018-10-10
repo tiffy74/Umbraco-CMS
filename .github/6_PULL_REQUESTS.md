@@ -1,6 +1,8 @@
 [Back to Contents](1_CONTENTS.md)
 
-### Pull Requests
+# Merging Your Contribution
+
+## Pull Requests
 
 The most successful pull requests usually look a like this:
 
@@ -15,7 +17,7 @@ Again, these are guidelines, not strict requirements.
 
 If you make the corrections we ask for in the same branch and push them to your fork again, the pull request automatically updates with the additional commit(s) so we can review it again. If all is well, we'll merge the code and your commits are forever part of Umbraco!
 
-### Reviews
+## Reviews
 
 You're an awesome person and sent us your first contribution in the form of a pull request, congratulations! Now what?  It's now time to relax for a bit and wait for our response. 
 
@@ -32,7 +34,7 @@ We have [a process in place which you can read all about](REVIEW_PROCESS.md). Th
 
 In order to set some expectations, here's what happens next.
 
-## Review process
+### Review process
 
 You will get an initial reply within 48 hours (workdays) to acknowledge that we’ve seen your PR and we’ll pick it up as soon as we can.
 
@@ -43,7 +45,7 @@ You will get feedback within at most 14 days after opening the PR. You’ll most
 - Your proposed change is awesome but needs a bit more work, we’ll give you feedback on the changes we’d like to see
 - Your proposed change is awesome but.. not something we’re looking to include at this point. We’ll close your PR and the related issue (we’ll be nice about it!)
 
-## Are you still available?
+### Are you still available?
 
 We understand you have other things to do and can't just drop everything to help us out.   
 So if we’re asking for your help to improve the PR we’ll wait for two weeks to give you a fair chance to make changes. We’ll ask for an update if we don’t hear back from you after that time.  
