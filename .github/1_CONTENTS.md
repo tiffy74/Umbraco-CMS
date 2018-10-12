@@ -31,4 +31,4 @@ This document gives you a quick overview on how to get started, we will link to 
 * [Questions?](8_QUESTIONS.md)
 * [Credits](9_CREDITS.md)
 
-[ Next >>](2_GUIDELINES.md)
+[ Next >>](2_CODE_CONDUCT.md)
