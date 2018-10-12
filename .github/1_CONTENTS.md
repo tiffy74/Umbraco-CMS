@@ -21,8 +21,9 @@ This document gives you a quick overview on how to get started, we will link to 
   * [Contributing to Umbraco CMS](2_GUIDELINES.md##Contributing)
     * [Small Pull Requests](2_GUIDELINES.md##Small)
     * [Up for grabs ](2_GUIDELINES.md###Up)
+    * [Large Pull Requests](2_GUIDELINES.md###Large)
     * [Small Pull Requests](2_GUIDELINES.md##Small)
-    * [Small Pull Requests](2_GUIDELINES.md##Small)
+
 * [Code of Conduct](3_CODE.md)
 * [Quick Start](4_QUICK_START.md)
 * [What to Contribute](5_CONTRIBUTING.md)
