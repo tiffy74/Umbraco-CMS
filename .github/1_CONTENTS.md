@@ -26,6 +26,11 @@ This document gives you a quick overview on how to get started, we will link to 
     * [Pull request or package?](2_GUIDELINES.md#pull-request-or-package)
 * [Quick Start](4_QUICK_START.md)
 * [What to Contribute](5_CONTRIBUTING.md)
+ * [How do I begin?](5_CONTRIBUTING.md)
+     * [Reporting Bugs](2_GUIDELINES.md#pull-request-or-package)
+          * [Before Submitting A Bug Report](2_GUIDELINES.md#pull-request-or-package)
+ Suggesting Enhancements
+
 * [Making a Contribution](6_CONTRIBUTION.md)  
 * [Merging Your Code Into Umbraco](7_PULL_REQUESTS.md)
 * [Questions?](8_QUESTIONS.md)
