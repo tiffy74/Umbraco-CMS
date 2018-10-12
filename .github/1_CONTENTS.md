@@ -38,8 +38,7 @@ https://github.com/tiffy74/Umbraco-CMS/blob/RestructureDocs/.github/3_GUIDELINES
       * [Building from source code](5_CONTRIBUTION.md#building-umbraco-from-source-code)
       * [Keeping your fork in sync](5_CONTRIBUTION.md#keeping-your-umbraco-fork-in-sync-with-the-main-repository)
       * [Styleguides](5_CONTRIBUTION.md#styleguides)
-* [Merging Your Code Into Umbraco](7_PULL_REQUESTS.md)
-* [Questions?](8_QUESTIONS.md)
-* [Credits](9_CREDITS.md)
+* [Merging Your Code Into Umbraco](6_PULL_REQUESTS.md)
+* [Credits](7_CREDITS.md)
 
 [ Next >>](2_CODE_CONDUCT.md)
