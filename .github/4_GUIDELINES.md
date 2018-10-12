@@ -73,7 +73,18 @@ Include details about your configuration and environment:
   * **Which version of Umbraco are you using?** 
   * **What is the environment you're using Umbraco in?** Is this a problem on your local machine or on a server. Tell us about your configuration: Windows version, IIS/IISExpress, database type, etc.
   * **Which packages do you have installed?**
-  
+
+### Suggesting Enhancements
+
+This section guides you through submitting an enhancement suggestion for Umbraco, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion 📝 and find related suggestions 🔎.
+
+Most of the suggestions in the [reporting bugs](#reporting-bugs) section also count for suggesting enhancements.
+
+Some additional hints that may be helpful:
+
+  * **Include screenshots and animated GIFs** which help you demonstrate the steps or point out the part of Umbraco which the suggestion is related to.
+  * **Explain why this enhancement would be useful to most Umbraco users** and isn't something that can or should be implemented as a [community package](https://our.umbraco.org/projects/).
+
 ### Small Pull Requests
 Bug fixes and small improvements - can be recognized by seeing a small number of changes and possibly a small number of new files.
 
