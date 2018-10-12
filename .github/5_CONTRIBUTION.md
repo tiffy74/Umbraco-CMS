@@ -1,6 +1,6 @@
 [Back to Contents](1_CONTENTS.md)
 
-# Making a contribution
+# Developing a contribution
 
 ## What should I know before I get started?
 
