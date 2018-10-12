@@ -101,4 +101,4 @@ If it doesn’t fit in CMS right now, we will likely encourage you to make it in
 
 Eventually, a package could "graduate" to be included in the CMS.
 
-[<< Prev ](3_QUICK_START.md)[ Next >>](5_CONTRIBUTION.md)
+[<< Prev ](4_QUICK_START.md)[ Next >>](6_CONTRIBUTING.md)
