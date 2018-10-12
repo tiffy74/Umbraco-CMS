@@ -27,7 +27,7 @@ Umbraco HQ will regularly mark newly created issues on the issue tracker with th
 
 If you do start working on something, make sure leave a small comment on the issue saying something like: "I'm working on this". That way other people stumbling upon the issue know they don't need to pick it up, someone already has.
 
-### Large-Pull-Requests
+### Large Pull Requests
 New features and large refactorings - can be recognized by seeing a large number of changes, plenty of new files, updates to package manager files (NuGet’s packages.config, NPM’s packages.json, etc.).  
 
 We would love to follow the same process for larger PRs but this is not always possible due to time limitations and priorities that need to be aligned. We don’t want to put up any barriers, but this document should set the correct expectations.  
