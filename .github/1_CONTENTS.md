@@ -44,4 +44,5 @@ https://github.com/tiffy74/Umbraco-CMS/blob/RestructureDocs/.github/3_GUIDELINES
      * [The review process](6_PULL_REQUESTS.md#review-process)
    * [Your availability](6_PULL_REQUESTS.md#are-you-still-available)
 * [Credits](7_CREDITS.md)
+
 [ Next >>](2_CODE_CONDUCT.md)
