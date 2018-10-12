@@ -17,11 +17,12 @@ This document gives you a quick overview on how to get started, we will link to 
 
 * [Introduction and Contents](1_CONTENTS.md)
 * [On using these Guidelines](2_GUIDELINES.md)
-* [Quick Start](3_QUICK_START.md)
-* [What to Contribute](4_CONTRIBUTING.md)
-* [Making a Contribution](5_CONTRIBUTION.md)  
-* [Merging Your Code Into Umbraco](6_PULL_REQUESTS.md)
-* [Questions?](7_QUESTIONS.md)
-* [Credits](8_CREDITS.md)
+* [Code of Conduct](3_CODE.md)
+* [Quick Start](4_QUICK_START.md)
+* [What to Contribute](5_CONTRIBUTING.md)
+* [Making a Contribution](6_CONTRIBUTION.md)  
+* [Merging Your Code Into Umbraco](7_PULL_REQUESTS.md)
+* [Questions?](8_QUESTIONS.md)
+* [Credits](9_CREDITS.md)
 
 [ Next >>](2_GUIDELINES.md)
