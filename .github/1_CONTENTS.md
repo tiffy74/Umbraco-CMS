@@ -16,7 +16,7 @@ This document gives you a quick overview on how to get started, we will link to 
 # Contents
 
 * [Introduction and Contents](1_CONTENTS.md)
-* [On using these Guidelines](2_GUIDELINES.md)
+* [Guidelines](2_GUIDELINES.md)
   * [Guidelines for contributions we welcome](2_GUIDELINES.md#guidelines-for-contributions-we-welcome)
   * [Contributing to Umbraco CMS](2_GUIDELINES.md#contributing-to-umbraco-cms)
     * [Small Pull Requests](2_GUIDELINES.md#small-pull-requests)
