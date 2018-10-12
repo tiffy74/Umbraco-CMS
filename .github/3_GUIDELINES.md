@@ -20,7 +20,7 @@ Unsure where to begin contributing to Umbraco? You can start by looking through 
 
 The issue list is sorted by total number of upvotes. While not perfect, number of upvotes is a reasonable proxy for impact a given change will have.
 
-## Contributing to Umbraco CMS
+## Types of contribution you can make
 
 When you’re considering creating a pull request for Umbraco CMS, we will categorize them in two different sizes, small and large.
 
