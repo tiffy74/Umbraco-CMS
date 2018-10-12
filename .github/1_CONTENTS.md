@@ -23,7 +23,6 @@ https://github.com/tiffy74/Umbraco-CMS/blob/RestructureDocs/.github/3_GUIDELINES
   * [How do I begin?](4_GUIDELINES.md#how-do-i-begin)
   * [Types of contribution you can make](4_GUIDELINES.md#contributing-to-umbraco-cms)
     * [Reporting Bugs](4_CONTRIBUTING.md#pull-request-or-package)
-      * [Before Submitting A Bug Report](4_CONTRIBUTING.md#pull-request-or-package)
     * [Suggesting Enhancements](4_CONTRIBUTING.md#Suggesting-Enhancements)
     * [What We're Looking For](4_CONTRIBUTING.md#What-We're-Looking-For)
     * [How we decide](4_CONTRIBUTING.md#how-we-decide)
