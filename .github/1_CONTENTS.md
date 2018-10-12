@@ -16,14 +16,14 @@ This document gives you a quick overview on how to get started, we will link to 
 # Contents
 
 * [Introduction and Contents](1_CONTENTS.md)
-* [Guidelines](2_GUIDELINES.md)
+* [Code of Conduct](2_CODE.md)
+* [Guidelines](3_GUIDELINES.md)
   * [Guidelines for contributions we welcome](2_GUIDELINES.md#guidelines-for-contributions-we-welcome)
   * [Contributing to Umbraco CMS](2_GUIDELINES.md#contributing-to-umbraco-cms)
     * [Small Pull Requests](2_GUIDELINES.md#small-pull-requests)
     * [Up for grabs ](2_GUIDELINES.md#up-for-grabs)
     * [Large Pull Requests](2_GUIDELINES.md#large-pull-requests)
     * [Pull request or package?](2_GUIDELINES.md#pull-request-or-package)
-* [Code of Conduct](3_CODE.md)
 * [Quick Start](4_QUICK_START.md)
 * [What to Contribute](5_CONTRIBUTING.md)
 * [Making a Contribution](6_CONTRIBUTION.md)  
