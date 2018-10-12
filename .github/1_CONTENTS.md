@@ -22,7 +22,7 @@ This project and everyone participating in it is governed by the [our Code of Co
 * [Quick Start](3_QUICK_START.md)
 * [Guidelines for contributing](4_GUIDELINES.md)
    * [How do I begin?](4_GUIDELINES.md#how-do-i-begin)
-   * [What We're Looking For](4_GUIDELINES.md#What-We're-Looking-For)
+   * [What We're Looking For](4_GUIDELINES.md#what-were-looking-for)
    * [How we decide](4_GUIDELINES.md#how-we-decide)
    * [Types of contribution you can make](4_GUIDELINES.md#types-of-contribution-you-can-make)
      * [Reporting Bugs](4_GUIDELINES.md#pull-request-or-package)
