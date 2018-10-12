@@ -39,6 +39,10 @@ https://github.com/tiffy74/Umbraco-CMS/blob/RestructureDocs/.github/3_GUIDELINES
       * [Keeping your fork in sync](5_CONTRIBUTION.md#keeping-your-umbraco-fork-in-sync-with-the-main-repository)
       * [Styleguides](5_CONTRIBUTION.md#styleguides)
 * [Merging Your Code Into Umbraco](6_PULL_REQUESTS.md)
+   * [Pull Requests](6_PULL_REQUESTS.md#pull-requests)
+   * [Making changes after the PR was opened](6_PULL_REQUESTS.md#making-changes-after-the-pr-was-opened)
+   * [Reviews](6_PULL_REQUESTS.md#reviews)
+     * [The review process](6_PULL_REQUESTS.md#review-process)
+   * [Your availability](6_PULL_REQUESTS.md#are-you-still-available)
 * [Credits](7_CREDITS.md)
-
 [ Next >>](2_CODE_CONDUCT.md)
