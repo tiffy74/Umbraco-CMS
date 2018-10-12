@@ -36,7 +36,7 @@ https://github.com/tiffy74/Umbraco-CMS/blob/RestructureDocs/.github/3_GUIDELINES
       * [Choosing the right branch](5_CONTRIBUTION.md#what-branch-should-i-target-for-my-contributions)
       * [Building from source code](5_CONTRIBUTION.md#building-umbraco-from-source-code)
       * [Keeping your fork in sync](5_CONTRIBUTION.md#keeping-your-umbraco-fork-in-sync-with-the-main-repository)
-      * [Keeping your fork in sync](5_CONTRIBUTION.md#styleguides)
+      * [Styleguides](5_CONTRIBUTION.md#styleguides)
 * [Merging Your Code Into Umbraco](7_PULL_REQUESTS.md)
 * [Questions?](8_QUESTIONS.md)
 * [Credits](9_CREDITS.md)
