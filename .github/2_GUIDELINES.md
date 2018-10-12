@@ -44,9 +44,6 @@ If it doesn’t fit in CMS right now, we will likely encourage you to make it in
 
 Eventually, a package could "graduate" to be included in the CMS.
 
-## Code of Conduct
-
-This project and everyone participating in it is governed by the [our Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [Sebastiaan Janssen - sj@umbraco.dk](mailto:sj@umbraco.dk).
 
 
 [<< Prev ](1_CONTENTS.md)[ Next >>](3_CODE_CONDUCT.md)
