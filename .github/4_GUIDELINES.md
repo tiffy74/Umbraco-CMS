@@ -20,7 +20,7 @@ Unsure where to begin contributing to Umbraco? You can start by looking through 
 
 The issue list is sorted by total number of upvotes. While not perfect, number of upvotes is a reasonable proxy for impact a given change will have.
 
-# What We're Looking For
+## What We're Looking For
 
 Not all changes are wanted so on occassion we might close a PR without merging it. We will give you feedback why we can't accept your changes and we'll be nice about it, thanking you for spending your valueable time.
 
