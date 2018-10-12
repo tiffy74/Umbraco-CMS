@@ -18,6 +18,7 @@ This document gives you a quick overview on how to get started, we will link to 
 * [Introduction and Contents](1_CONTENTS.md)
 * [On using these Guidelines](2_GUIDELINES.md)
   * [Contributions we welcome](2_GUIDELINES.md##Guidelines)
+  * [Contributing to Umbraco CMS](2_GUIDELINES.md##Contributing)
 * [Code of Conduct](3_CODE.md)
 * [Quick Start](4_QUICK_START.md)
 * [What to Contribute](5_CONTRIBUTING.md)
