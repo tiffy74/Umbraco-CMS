@@ -16,7 +16,7 @@ When you’re considering creating a pull request for Umbraco CMS, we will categ
 
 The process for both sizes is very similar, as [explained in the contribution document](CONTRIBUTING.md#how-do-i-begin).
 
-### Small PRs
+### Small Pull Requests
 Bug fixes and small improvements - can be recognized by seeing a small number of changes and possibly a small number of new files.
 
 We’re usually able to handle small PRs pretty quickly. A community volunteer will do the initial review and flag it for Umbraco HQ as “community tested”. If everything looks good, it will be merged pretty quickly [as per the described process](REVIEW_PROCESS.md).
