@@ -22,7 +22,7 @@ This document gives you a quick overview on how to get started, we will link to 
     * [Small Pull Requests](2_GUIDELINES.md#Small)
     * [Up for grabs ](2_GUIDELINES.md#Up)
     * [Large Pull Requests](2_GUIDELINES.md#large-pull-requests)
-    * [Pull request or package?](2_GUIDELINES.md#Pull)
+    * [Pull request or package?](2_GUIDELINES.md#pull-request-or-package)
 * [Code of Conduct](3_CODE.md)
 * [Quick Start](4_QUICK_START.md)
 * [What to Contribute](5_CONTRIBUTING.md)
