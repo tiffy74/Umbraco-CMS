@@ -46,4 +46,4 @@ Eventually, a package could "graduate" to be included in the CMS.
 
 
 
-[<< Prev ](2_CODE_CONDUCT.md)[ Next >>](4_CONTRIBUTING.md)
+[<< Prev ](2_CODE_CONDUCT.md)[ Next >>](4_QUICK_START.md)
