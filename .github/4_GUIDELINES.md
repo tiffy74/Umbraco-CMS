@@ -121,4 +121,4 @@ You can get in touch with [the PR team](#the-pr-team) in multiple ways, we love 
 - Unsure where to start? Did something not work as expected? Try leaving a note in the ["Contributing to Umbraco"](https://our.umbraco.org/forum/contributing-to-umbraco-cms/) forum, the team monitors that one closely
 - We're also [active in the Gitter chatroom](https://gitter.im/umbraco/Umbraco-CMS)
 
-[<< Prev ](3_QUICK_START.md)[ Next >>](4_GUIDELINES.md)
+[<< Prev ](3_QUICK_START.md)[ Next >>](5_CONTRIBUTION.md)
