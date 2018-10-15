@@ -1,3 +1,5 @@
+[Back to Contents](1_CONTENTS.md)
+
 # Introduction
 
 👍🎉 First off, thanks for taking the time to contribute! 🎉👍
@@ -12,3 +14,6 @@ This document gives you a quick overview on how to get started, we will link to 
 https://github.com/tiffy74/Umbraco-CMS/blob/RestructureDocs/.github/3_GUIDELINES.md#how-do-i-begin
 
 This project and everyone participating in it is governed by the [our Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [Sebastiaan Janssen - sj@umbraco.dk](mailto:sj@umbraco.dk).
+
+[<< Prev ](1_CONTENTS.md)[ Next >>](3_CODE_CONDUCT.md)
+
