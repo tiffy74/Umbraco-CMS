@@ -13,7 +13,7 @@ Remember, we're a friendly bunch and are happy with whatever contribution you mi
 This document gives you a quick overview on how to get started, we will link to in-depth documentation throughout if you need some more background info.
 https://github.com/tiffy74/Umbraco-CMS/blob/RestructureDocs/.github/5_GUIDELINES.md#how-do-i-begin
 
-This project and everyone participating in it is governed by the [our Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [Sebastiaan Janssen - sj@umbraco.dk](mailto:sj@umbraco.dk).
+This project and everyone participating in it is governed by the [our Code of Conduct](3_CODE_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [Sebastiaan Janssen - sj@umbraco.dk](mailto:sj@umbraco.dk).
 
 [<< Prev ](1_CONTENTS.md)[ Next >>](3_CODE_CONDUCT.md)
 
