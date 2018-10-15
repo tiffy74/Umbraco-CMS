@@ -54,4 +54,4 @@ If we don’t hear back from you for 4 weeks, we’ll close the PR so that it do
 
 There will be times that we really like your proposed changes and we’ll finish the final improvements we’d like to see ourselves. You still get the credits and your commits will live on in the git repository.
 
-[<< Prev ](5_CONTRIBUTION.md)[ Next >>](7_QUESTIONS.md)
+[<< Prev ](5_CONTRIBUTION.md)[ Next >>](7_CREDITS.md)
