@@ -32,7 +32,7 @@ Remember, if an issue is in the `Up for grabs` list or you've asked for some fee
 
 When you’re considering creating a pull request for Umbraco CMS, we will categorize them in two different sizes, small and large.
 
-The process for both sizes is very similar, as [explained in the guide on Pull Requests](6_CONTRIBUTION.md#how-do-i-begin).
+The process for both sizes is very similar, as [explained in the guide on Pull Requests](#small-pull-requests).
 
 ### Reporting Bugs
 This section guides you through submitting a bug report for Umbraco CMS. Following these guidelines helps maintainers and the community understand your report 📝, reproduce the behavior 💻 💻, and find related reports 🔎.
