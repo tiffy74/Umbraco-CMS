@@ -34,12 +34,6 @@ When you’re considering creating a pull request for Umbraco CMS, we will categ
 
 The process for both sizes is very similar, as [explained in the contribution document](6_CONTRIBUTING.md#how-do-i-begin).
 
-## Types of contribution you can make
-
-When you’re considering creating a pull request for Umbraco CMS, we will categorize them in two different sizes, small and large.
-
-The process for both sizes is very similar, as [explained in the contribution document](6_CONTRIBUTING.md#how-do-i-begin).
-
 ### Reporting Bugs
 This section guides you through submitting a bug report for Umbraco CMS. Following these guidelines helps maintainers and the community understand your report 📝, reproduce the behavior 💻 💻, and find related reports 🔎.
 
