@@ -99,7 +99,7 @@ Please make sure to describe your idea in an issue, it helps to put in mockup sc
 
 If the change makes sense for HQ to include in Umbraco CMS we will leave you some feedback on how we’d like to see it being implemented. 
 
-If a larger pull request is encouraged by Umbraco HQ, the process will be similar to what is described in the [small PRs process](#Small-Pull-Requests) above, we’ll get feedback to you within 14 days. Finalizing and merging the PR might take longer though as it will likely need to be picked up by the development team to make sure everything is in order. We’ll keep you posted on the progress.
+If a larger pull request is encouraged by Umbraco HQ, the process will be similar to what is described in the [small PRs process](#small-pull-requests) above, we’ll get feedback to you within 14 days. Finalizing and merging the PR might take longer though as it will likely need to be picked up by the development team to make sure everything is in order. We’ll keep you posted on the progress.
 
 ### Pull request or package?
 
