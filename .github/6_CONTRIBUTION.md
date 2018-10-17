@@ -72,4 +72,4 @@ To be honest, we don't like rules very much. We trust you have the best of inten
 
 That said, the Umbraco development team likes to follow the hints that ReSharper gives us (no problem if you don't have this installed) and we've added a `.editorconfig` file so that Visual Studio knows what to do with whitespace, line endings, etc. 
 
-[<< Prev ](5_GUIDELINES.md)[ Next >>](7_PULL_REQUESTS.md)
+[<< Prev ](5_GUIDELINES.md)[ Next >>](7_BUILD.md)
