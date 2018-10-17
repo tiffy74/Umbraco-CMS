@@ -25,7 +25,7 @@ _Looking for Umbraco version 8? [Click here](https://github.com/umbraco/Umbraco-
       * [Keeping your fork in sync](6_CONTRIBUTION.md#keeping-your-umbraco-fork-in-sync-with-the-main-repository)
       * [Styleguides](6_CONTRIBUTION.md#styleguides)
 * [Building Umbraco](7_BUILD.md)
-      * [Quick](7_BUILD.md#quick)
+* [Quick](7_BUILD.md#quick)
 * [Powershell Quirks](7_BUILD.md#powershell-quirks)
       * [Notes](7_BUILD.md#notes)
 * [Build](7_BUILD.md#build)
