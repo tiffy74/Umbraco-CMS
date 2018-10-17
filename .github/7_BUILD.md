@@ -1,3 +1,5 @@
+[Back to Contents](1_CONTENTS.md)
+
 # Quick!
 
 To build Umbraco, fire PowerShell and move to Umbraco's repository root (the directory that contains `src`, `build`, `README.md`...). There, trigger the build with the following command:
