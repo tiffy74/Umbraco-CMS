@@ -10,7 +10,7 @@ _Looking for Umbraco version 8? [Click here](https://github.com/umbraco/Umbraco-
    * [What We're Looking For](5_GUIDELINES.md#what-were-looking-for)
    * [How we decide](5_GUIDELINES.md#how-we-decide)
    * [Types of contribution you can make](5_GUIDELINES.md#types-of-contribution-you-can-make)
-   * [Reporting Bugs](5_GUIDELINES.md#reporting-bugs)
+* [Reporting Bugs](5_GUIDELINES.md#reporting-bugs)
    * [Suggesting Enhancements](5_GUIDELINES.md#suggesting-enhancements)
    * [Small Pull Requests](5_GUIDELINES.md#small-pull-requests)
    * [Up for grabs ](5_GUIDELINES.md#up-for-grabs)
