@@ -5,7 +5,7 @@
 In this chapter:
 
 * [Guidelines for contributions we welcome](5_GUIDELINES.md#guidelines-for-contributions-we-welcome)
-* [How do I begin?](5_GUIDELINES.md#how-do-I-begin)
+* [How do I begin?](5_GUIDELINES.md#how-do-i-begin)
 * [What We're Looking For](5_GUIDELINES.md#what-were-looking-for)
 * [How We Decide](5_GUIDELINES.md#how-we-decide)
 * [Reporting Bugs](5_GUIDELINES.md#reporting-bugs)
