@@ -12,7 +12,7 @@ In this chapter:
 * [Before Submitting A Bug Report](5_GUIDELINES.md#before-submitting-a-bug-report)
 * [Suggesting Enhancements](5_GUIDELINES.md#suggesting-enhancements)
 * [Small Pull Requests](5_GUIDELINES.md#small-pull-requests)
-* [Up for grabs](5_GUIDELINES.md#up-for-grabss)
+* [Up for grabs](5_GUIDELINES.md#up-for-grabs)
 * [Large Pull Requests](5_GUIDELINES.md#large-pull-requests)
 * [Pull request or package?](5_GUIDELINES.md#pull-request-or-package)
 * [Questions](5_GUIDELINES.md#questions)
