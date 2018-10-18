@@ -7,7 +7,7 @@ _Looking for Umbraco version 8? [Click here](https://github.com/umbraco/Umbraco-
 * [Introduction](2_INTRODUCTION.md)
 * [Code of Conduct](3_CODE_CONDUCT.md)
 * [Quick Start](4_QUICK_START.md)
-* [How do I begin?](5_GUIDELINES.md#how-do-i-begin)
+* [Guidelines on making a contribution](5_GUIDELINES.md)
 * [Types of contribution you can make](5_GUIDELINES.md#types-of-contribution-you-can-make)
 * [What should I know before I get started?](6_CONTRIBUTION.md#what-should-i-know-before-i-get-started)
 * [Working with source code](6_CONTRIBUTION.md#working-with-the-source-code)
