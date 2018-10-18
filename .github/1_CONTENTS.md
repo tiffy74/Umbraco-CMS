@@ -1,6 +1,8 @@
 _Looking for Umbraco version 8? [Click here](https://github.com/umbraco/Umbraco-CMS/blob/temp8/docs/CONTRIBUTING.md) to go to the v8 branch_
 
-# Contents
+# Umbraco Guide to Contributing
+
+## Contents
 
 * [Introduction](2_INTRODUCTION.md)
 * [Code of Conduct](3_CODE_CONDUCT.md)
