@@ -2,6 +2,8 @@
 
 _Looking for Umbraco version 8? [Click here](https://github.com/umbraco/Umbraco-CMS/tree/temp8) to go to the v8 branch_
 
+For the guide to contributing to Umbraco - begin [here](1_CONTENTS.md)
+
 Umbraco CMS
 ===========
 The friendliest, most flexible and fastest growing ASP.NET CMS used by more than 443,000 websites worldwide: [https://umbraco.com](https://umbraco.com)
