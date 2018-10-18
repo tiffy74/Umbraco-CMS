@@ -2,6 +2,16 @@
 
 # Guidelines
 
+In this chapter:
+
+* [Guidelines for contributions we welcome](5_GUIDELINES.md#guidelines-for-contributions-we-welcome)
+* [How do I begin?](5_GUIDELINES.md#how-do-I-begin?)
+* [What We're Looking For](5_GUIDELINES.md#what-we're-looking-for)
+* [Guidelines for contributions we welcome](5_GUIDELINES.md#guidelines-for-contributions-we-welcome)
+* [Guidelines for contributions we welcome](5_GUIDELINES.md#guidelines-for-contributions-we-welcome)
+* [Guidelines for contributions we welcome](5_GUIDELINES.md#guidelines-for-contributions-we-welcome)
+
+
 ## Guidelines for contributions we welcome
 
 Not all changes are wanted so on occassion we might close a PR without merging it. We will give you feedback why we can't accept your changes and we'll be nice about it, thanking you for spending your valueable time.
