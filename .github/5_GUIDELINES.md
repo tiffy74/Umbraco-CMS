@@ -5,11 +5,17 @@
 In this chapter:
 
 * [Guidelines for contributions we welcome](5_GUIDELINES.md#guidelines-for-contributions-we-welcome)
-* [How do I begin?](5_GUIDELINES.md#how-do-I-begin?)
-* [What We're Looking For](5_GUIDELINES.md#what-we're-looking-for)
-* [Guidelines for contributions we welcome](5_GUIDELINES.md#guidelines-for-contributions-we-welcome)
-* [Guidelines for contributions we welcome](5_GUIDELINES.md#guidelines-for-contributions-we-welcome)
-* [Guidelines for contributions we welcome](5_GUIDELINES.md#guidelines-for-contributions-we-welcome)
+* [How do I begin?](5_GUIDELINES.md#how-do-I-begin)
+* [What We're Looking For](5_GUIDELINES.md#what-were-looking-for)
+* [How We Decide](5_GUIDELINES.md#how-we-decide)
+* [Reporting Bugs](5_GUIDELINES.md#reporting-bugs)
+* [Before Submitting A Bug Report](5_GUIDELINES.md#before-submitting-a-bug-report)
+* [Suggesting Enhancements](5_GUIDELINES.md#suggesting-enhancements)
+* [Small Pull Requests](5_GUIDELINES.md#small-pull-requests)
+* [Up for grabs](5_GUIDELINES.md#up-for-grabss)
+* [Large Pull Requests](5_GUIDELINES.md#large-pull-requests)
+* [Pull request or package?](5_GUIDELINES.md#pull-request-or-package)
+* [Questions](5_GUIDELINES.md#questions)
 
 
 ## Guidelines for contributions we welcome
