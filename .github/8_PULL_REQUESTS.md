@@ -54,4 +54,25 @@ If we don’t hear back from you for 4 weeks, we’ll close the PR so that it do
 
 There will be times that we really like your proposed changes and we’ll finish the final improvements we’d like to see ourselves. You still get the credits and your commits will live on in the git repository.
 
+## The PR team
+
+The pull request team consists of a member of Umbraco HQ, [Sebastiaan](https://github.com/nul800sebastiaan), who gets assistance from the following community members
+
+- [Anders Bjerner](https://github.com/abjerner)
+- [Dave Woestenborghs](https://github.com/dawoe)
+- [Emma Burstow](https://github.com/emmaburstow)
+- [Kyle Weems](https://github.com/cssquirrel)
+- [Poornima Nayar](https://github.com/poornimanayar)
+
+These wonderful volunteers will provide you with a first reply to your PR, review and test out your changes and might ask more questions. After that they'll let Umbraco HQ know if everything seems okay. 
+
+## Questions?
+
+You can get in touch with [the PR team](#the-pr-team) in multiple ways, we love open conversations and we are a friendly bunch. No question you have is stupid. Any questions you have usually helps out multiple people with the same question. Ask away:
+
+- If there's an existing issue on the issue tracker then that's a good place to leave questions and discuss how to start or move forward
+- Unsure where to start? Did something not work as expected? Try leaving a note in the ["Contributing to Umbraco"](https://our.umbraco.org/forum/contributing-to-umbraco-cms/) forum, the team monitors that one closely
+- We're also [active in the Gitter chatroom](https://gitter.im/umbraco/Umbraco-CMS)
+
+
 [<< Prev ](7_BUILD.md)[ Next >>](9_CREDITS.md)
