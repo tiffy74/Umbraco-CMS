@@ -42,7 +42,7 @@ Not all changes are wanted so on occassion we might close a PR without merging i
 
 We have documented what we consider small and large changes below, make sure to talk to us before making large changes.
 
-Remember, if an issue is in the `Up for grabs` list or you've asked for some feedback before you sent us a PR, your PR will not be closed as unwanted.
+Remember, if an issue is in the [Up for grabs](5_GUIDELINES.md#up-for-grabs) list or you've asked for some feedback before you sent us a PR, your PR will not be closed as unwanted.
 
 ## How We Decide
 
