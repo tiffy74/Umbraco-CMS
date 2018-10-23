@@ -100,7 +100,7 @@ Some additional hints that may be helpful:
 ### Small Pull Requests
 Bug fixes and small improvements - can be recognized by seeing a small number of changes and possibly a small number of new files.
 
-We’re usually able to handle small PRs pretty quickly. A community volunteer will do the initial review and flag it for Umbraco HQ as “community tested”. If everything looks good, it will be merged pretty quickly [as per the described process](7_PULL_REQUESTS.md#reviews).
+We’re usually able to handle small PRs pretty quickly. A community volunteer will do the initial review and flag it for Umbraco HQ as “community tested”. If everything looks good, it will be merged pretty quickly [as per the described process](8_PULL_REQUESTS.md#).
 
 ### Up for grabs
 
