@@ -106,6 +106,8 @@ Umbraco HQ will regularly mark newly created issues on the issue tracker with th
 
 If you do start working on something, make sure leave a small comment on the issue saying something like: "I'm working on this". That way other people stumbling upon the issue know they don't need to pick it up, someone already has.
 
+To view the latest issues marked with `Up for grabs` tag then head on over to the [Umbraco issue tracker on Github](https://github.com/umbraco/Umbraco-CMS/issues?q=is%3Aissue+is%3Aopen+label%3Acommunity%2Fup-for-grabs).
+
 ### Large Pull Requests
 New features and large refactorings - can be recognized by seeing a large number of changes, plenty of new files, updates to package manager files (NuGet’s packages.config, NPM’s packages.json, etc.).  
 
