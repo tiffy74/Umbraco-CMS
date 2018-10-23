@@ -6,6 +6,6 @@ This contribution guide borrows heavily from the excellent work on [the Atom con
 
 # Code of Conduct
 
-This project and everyone participating in it is governed by the [our Code of Conduct](CODE_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [Sebastiaan Janssen - sj@umbraco.dk](mailto:sj@umbraco.dk).
+This project and everyone participating in it is governed by the [our Code of Conduct](3_CODE_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [Sebastiaan Janssen - sj@umbraco.dk](mailto:sj@umbraco.dk).
 
 [<< Prev ](8_PULL_REQUESTS.md)
